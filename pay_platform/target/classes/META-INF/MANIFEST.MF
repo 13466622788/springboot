@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pay_platform
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lixin06
+Implementation-Vendor-Id: com.ttylink
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pay_platform
+Created-By: Maven Integration for Eclipse
+

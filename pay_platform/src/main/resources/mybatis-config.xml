@@ -1,0 +1,7 @@
+<!--jdbc -->
+
+<!-- <logger name="java.sql.Connection" level="ERROR" />
+<logger name="java.sql.PreparedStatement" level="ERROR" />
+<logger name="org.apache.zookeeper" level="ERROR" />
+ -->
+<logger name="com.ttylink.dao.*" level="info" />
